@@ -16,12 +16,8 @@ This project analyzes COVID-19 data using data science and machine learning tech
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/covid19-analysis.git
-   cd covid19-analysis
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+   git clone https:https://github.com/ayushs018/pandemic_dataSci.git
+   cd pandemic_dataSci
    ```
 
 ## Usage
@@ -44,8 +40,6 @@ jupyter notebook Untitled10.ipynb
 This project is open-source under the **MIT License**.
 
 ## Contributors
-- **Your Name** – [GitHub Profile](https://github.com/your-profile)
+- **Ayush Sabane** – [ayushs018](https://github.com/ayushs018)
 
 ---
-Feel free to customize this README with more details or specific instructions!
-
